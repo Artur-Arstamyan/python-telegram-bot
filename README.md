@@ -3,10 +3,12 @@
 [Examples](https://docs.python-telegram-bot.org/en/v21.5/examples.html)  
 # My bots
 **1. @armenian_robot** - [Link](https://t.me/armenian_robot)  
-Bot uses **Anthropic's** `claude-3-7-sonnet-20250219` model
+Bot uses **Anthropic's** `claude-3-7-sonnet-20250219` model  
+
 Use /start command to
 - correct any texts
-- translate any texts into any language  
+- translate any texts into any language
+- 
 Use /power_cuts command to
 - get information about power cuts
 - subscribe to get messages whenever bot notices power cuts at your address
